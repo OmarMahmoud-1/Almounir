@@ -1,3 +1,4 @@
+![screenshot](https://github.com/OmarMahmoud-1/Almounir/blob/main/Icon.png)
 # المنير
 هو مشروع يمكنك من قرأه القران الكريم والإستماع الى التلاوت وقرأه التفسير من خلاله 
 
