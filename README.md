@@ -1,4 +1,7 @@
-![screenshot](https://github.com/OmarMahmoud-1/Almounir/blob/main/Icon.png)
+<div align="center">
+    <img src="/Github/banar.png" alt="Quran json">
+</div>
+
 # المنير
 هو مشروع يمكنك من قرأه القران الكريم والإستماع الى التلاوت وقرأه التفسير من خلاله 
 
