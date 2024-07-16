@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/banar.png" alt="Quran json">
+    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/banar.svg" alt="Quran json">
 </div>
 
 # المنير
