@@ -5,6 +5,9 @@
 # المنير
 تطبيق القرأن للحاسوب
 
+
+ [موقعنا](https://sites.google.com/view/almounirquraapp/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D9%87)
+ 
 ## التنزيل
 
 [صفحه التحميل](https://github.com/OmarMahmoud-1/Almounir/releases/tag/v1)
