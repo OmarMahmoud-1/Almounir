@@ -7,11 +7,11 @@
 
 ## التنزيل
 
-[صفحه التحميل](https://github.com/OmarMahmoud-1/Almounir/releases/tag/app)
+[صفحه التحميل](https://github.com/OmarMahmoud-1/Almounir/releases/tag/v1)
 
- [نسخه ويندوز](https://github.com/OmarMahmoud-1/Almounir/releases/download/app/Almounir.exe)
+ [نسخه ويندوز](https://github.com/OmarMahmoud-1/Almounir/releases/download/v1/Almounir_v1.exe)
 
-[نسخه اللينكس](https://github.com/OmarMahmoud-1/Almounir/releases/download/app/Almounir_Linux.x86_64)
+[نسخه اللينكس](https://github.com/OmarMahmoud-1/Almounir/releases/download/v1/Almounir_linux_v1.x86_64)
 
 ## الميزات 
 عدم الحاجه للإنترنت في كل من:
