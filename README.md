@@ -24,43 +24,32 @@
 ## الصور
 
 <div align="center">
-    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/screen_shots/Screenshot%20from%202024-07-20%2018-13-48.png">
+    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/ScreenShots/Screenshot%20from%202024-08-26%2012-14-38.png">
 </div>
 
 <div align="center">
-    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/screen_shots/Screenshot%20from%202024-07-20%2018-16-03.png">
+    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/ScreenShots/Screenshot%20from%202024-08-26%2012-14-47.png">
 </div>
 
 <div align="center">
-    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/screen_shots/Screenshot%20from%202024-07-20%2018-14-32.png">
+    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/ScreenShots/Screenshot%20from%202024-08-26%2012-15-04.png">
 </div>
 
 <div align="center">
-    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/screen_shots/Screenshot%20from%202024-07-20%2018-15-53.png">
+    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/ScreenShots/Screenshot%20from%202024-08-26%2014-24-31.png">
 </div>
 
 <div align="center">
-    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/screen_shots/Screenshot%20from%202024-07-20%2018-19-26.png">
+    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/ScreenShots/Screenshot%20from%202024-08-26%2014-24-49.png">
 </div>
 
 <div align="center">
-    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/screen_shots/Screenshot%20from%202024-07-20%2018-18-33.png">
+    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/ScreenShots/Screenshot%20from%202024-08-26%2014-24-55.png">
 </div>
 
 <div align="center">
-    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/screen_shots/Screenshot%20from%202024-07-20%2018-18-18.png">
+    <img src="https://github.com/OmarMahmoud-1/Almounir/blob/main/ScreenShots/Screenshot%20from%202024-08-26%2014-25-05.png">
 </div>
-
-## ماذا بعد ؟
-
-- [ ]  اضافة التفسير بجميع `اللغات` المتوفرة إن شاء الله
-- [ ]  إستخراج صور للآيات
-- [ ]  استخراج تلاوة الايه
-- [ ]  نسخ التفسير
-- [ ]  اللغه الانجليزيه
-- [ ]  استخراج ملف المستخدم
-- [ ]  إضافه مزيد من الشيوخ
-- [ ]  إضافه التفسير الصوتي
 
 ## ختاماً
 اسأل الله ان ينفع به المسلمين 
