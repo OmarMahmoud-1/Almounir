@@ -5,8 +5,17 @@
 # المنير
 تطبيق القرأن للحاسوب
 
+<div align="right">
 
- [موقعنا](https://sites.google.com/view/almounirquraapp/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D9%87)
+> عدد التنزيلات
+![Github All Releases](https://img.shields.io/github/downloads/OmarMahmoud-1/Almounir/total.svg)
+
+## ---------
+
+</div>
+
+
+ [موقعنا](https://sites.google.com/view/almounirquranapp/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D9%87)
  
 ## التنزيل
 
